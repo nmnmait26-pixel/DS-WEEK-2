@@ -1,0 +1,99 @@
+STUDENT GRADE CALCULATOR - TEST CASES
+
+Test Case 1:
+Input:
+Student Name: Priya
+Marks: 85
+Expected Output:
+Grade: B
+Message: Very Good! Keep it up 👍
+
+----------------------------------
+
+Test Case 2:
+Input:
+Student Name: Rahul
+Marks: 92
+Expected Output:
+Grade: A
+Message: Excellent work! Keep shining 🌟
+
+----------------------------------
+
+Test Case 3:
+Input:
+Student Name: Anjali
+Marks: 75
+Expected Output:
+Grade: C
+Message: Good job! You can do even better 💪
+
+----------------------------------
+
+Test Case 4:
+Input:
+Student Name: Mohit
+Marks: 65
+Expected Output:
+Grade: D
+Message: You passed! Work harder next time 🙂
+
+----------------------------------
+
+Test Case 5:
+Input:
+Student Name: Neha
+Marks: 45
+Expected Output:
+Grade: F
+Message: Don't give up! Try again 💖
+
+----------------------------------
+
+Test Case 6:
+Input:
+Student Name: Amit
+Marks: -10
+Expected Output:
+Error message displayed
+Program asks for marks again
+
+----------------------------------
+
+Test Case 7:
+Input:
+Student Name: Sneha
+Marks: 120
+Expected Output:
+Error message displayed
+Program asks for marks again
+
+----------------------------------
+
+Test Case 8:
+Input:
+Student Name: Riya
+Marks: abc
+Expected Output:
+Error message: Please enter a valid number
+Program continues running
+
+----------------------------------
+
+Test Case 9:
+Input:
+Student Name: Karan
+Marks: 0
+Expected Output:
+Grade: F
+Message: Don't give up! Try again 💖
+
+----------------------------------
+
+Test Case 10:
+Input:
+Student Name: Simran
+Marks: 100
+Expected Output:
+Grade: A
+Message: Excellent work! Keep shining 🌟
